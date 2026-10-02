@@ -9,3 +9,6 @@ The KMFoundation Engine and Website has been developed by @TsuabkiHikaru and oth
   <img src="https://scp-km.wdfiles.com/local--files/main/scp-km.png" width="300px" alt="scp-km">
 </div>
 <!-- Above Code sourced from SCP-RU RuFoundation ReadMe -->
+
+
+<h1><a href="http://scp-km.wikidot.com/">Current Site</h1>
