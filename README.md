@@ -10,5 +10,6 @@ The KMFoundation Engine and Website has been developed by @TsuabkiHikaru and oth
 </div>
 <!-- Above Code sourced from SCP-RU RuFoundation ReadMe -->
 
+# Links
 
-<h1><a href="http://scp-km.wikidot.com/">Current Site</h1>
+<h4><a href="http://scp-km.wikidot.com/">Current Site</h1>
